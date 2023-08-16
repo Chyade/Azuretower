@@ -1,2 +1,3 @@
 This is FileB
 And it is This is used for GIT
+what actually one does with it is important.
