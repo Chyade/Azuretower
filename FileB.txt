@@ -1,0 +1,2 @@
+This is FileB
+And it is This is used for GIT
